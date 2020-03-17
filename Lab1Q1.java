@@ -2,7 +2,7 @@
 //The program reads number of students and each students score from the user, computes the best score and assigns letter grades according to the following scale.
 
 import java.util.*;
-public class Lab1 {
+public class Lab1Q1 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
 
